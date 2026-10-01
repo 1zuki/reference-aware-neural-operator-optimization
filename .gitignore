@@ -1,3 +1,10 @@
+sources/*
+ref/*
+notes/*
+references-notes/*
+nts.*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
